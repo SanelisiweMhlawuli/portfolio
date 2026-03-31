@@ -27,7 +27,7 @@ export default function Certificates() {
       title: "Mobile Application",
       issuer: "Life Choices Studio",
       year: "2026",
-      image: "/Mobile_App_Development_badge.png",
+      image: "/Mobile_App Development_badge.png",
     },
     {
       title: "WeThinkCode Generative AI",

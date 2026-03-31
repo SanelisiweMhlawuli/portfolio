@@ -33,7 +33,7 @@ export default function Hero() {
 
             {/* View CV */}
             <a
-              href="/Sanelisiwe_Mhlawuli_CV.pdf"
+              href="/My_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 border border-[#519CAB] text-[#519CAB] rounded-full 
